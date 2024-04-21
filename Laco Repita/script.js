@@ -5,5 +5,5 @@ do{
     console.log(numero)
     numero = numero + 1
 } while (numero < 9)
-//executa até se tornar falso
+//executa até se tornar verdadeiro
 
